@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-move by typing 'r' for rock, 'p' for paper, or 's' for scissors. The computer then chooses a move at random,
+This code is a simple implementation of the game Rock-Paper-Scissors. The player can input their move by typing 'r' for rock, 'p' for paper, or 's' for scissors. The computer then chooses a move at random, and the result of the round is displayed. The game keeps track of the number of wins, losses, and ties and displays them after each round. The player can quit the game by typing 'q'.
